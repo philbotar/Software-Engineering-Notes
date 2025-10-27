@@ -108,4 +108,8 @@ class Solution {
 
 ```
 
+#### Key Notes
 
+- The key phrase of a palindrome is that the second half is the same as the first half, but reversed
+- We fill the diagonal of a table to determine which substrings are palindromes, as a step prior to finding the longest palindromic substring.
+-
