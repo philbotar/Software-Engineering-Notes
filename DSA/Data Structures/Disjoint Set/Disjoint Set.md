@@ -43,7 +43,6 @@ How it works
 
 - Get the roots of both sets (find(x))
 - Compare their ranks (approx. height of the tree)
-
   - Attach the smaller tree under the larger one.
   - If equal, pick one and increment its rank.
 
@@ -75,11 +74,9 @@ def union(x, y):
 - When we want to find the parent of a node, we keep going up until we get to the parent. Step-by-step
 - We store the group id in the array of each set of integers. Find(x) returns the group ID of that node.
 - Lets say we have a tree, if i have the bottom node, we want to point to the ultimate parent.
-
   - Union function needs to traverse the entire array, setting each parent for those nodes to be the root node.
 - Find will NOT be returning the ultimate parent of each node in a disjoint set.
 - When we do union with a new value
-
   - Lets say value A has a parent of its root node, and value B points to a different value.
   - We perform finds to get the parents of each, and then if they arent the same, we go through each node in the array until we either find a value that is the same root.
 

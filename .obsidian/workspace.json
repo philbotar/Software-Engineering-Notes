@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "6837472aef0b4cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c46297cd640e5fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c2d75215b067141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Data Structures/Disjoint Set/Disjoint Set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disjoint Set"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e08ddf55bd170b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ed7df077a4fb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10fdd665d0b4932d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3bf8b18d57594c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"![[Screenshot 2025-12-05 at 6.56.29 am.png]]\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f7c5b826de4c472d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "67c43474eaf5e399",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f6aba3577c9dc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d85d52bc59e708",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "28fd97a296ce6809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "69fb6d0779bd0517",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4aed3b38f3a13d12",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d06a8da984b49936",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSA/Patterns/Dynamic Programming/Dynamic Programming FreeCodeCamp Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dynamic Programming FreeCodeCamp Notes"
+            }
+          },
+          {
+            "id": "4dc6ad7347e4af7d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3c2d75215b067141",
+  "lastOpenFiles": [
+    "System Design/assets/Screenshot 2025-12-21 at 3.19.30 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.17.22 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.15.36 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.13.36 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.12.39 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.07.31 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.05.24 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 3.02.27 pm.png",
+    "System Design/assets/Screenshot 2025-12-21 at 2.52.13 pm.png",
+    "System Design/assets/Screenshot 2025-12-14 at 10.15.40 am.png",
+    "System Design/assets/Screenshot 2025-12-14 at 1.24.50 pm.png",
+    "System Design/assets",
+    "System Design/Questions/assets",
+    "[1258](). Synonymous Sentences.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "DSA/Data Structures/Disjoint Set/Disjoint Set.md",
+    "DSA/Data Structures/Segment Trees.md",
+    "DSA/Data Structures/Disjoint Set/Path Compression And Union By Rank.md",
+    "DSA/Data Structures/Disjoint Set/Path Compression.md",
+    "assets/20250730_203216_Screenshot_2025-07-30.md",
+    "System Design/Questions/Design Youtube Top K.md",
+    "DSA/Questions/Fraction to Recurring Decimal.md",
+    "System Design/Questions",
+    "DSA/Questions/template.md",
+    "DSA/Questions/Max Stack.md",
+    "System Design/Common Patterns.md",
+    "DSA/Untitled.md",
+    "DSA/Questions/Edit Distance.md",
+    "Reading/CLRS/Minimum Spanning Trees.md",
+    "Reading/Designing Data Intensive Applications/Chapter 1 Summary.md",
+    "Reading/CLRS",
+    "Reading/Designing Data Intensive Applications",
+    "System Design/Managing Long Running Tasks.md",
+    "DSA/Questions/1258. Synonymous Sentences.md",
+    "DSA/Questions/30. Substring with Concatenation of All Words.md",
+    "System Design/Handling Large Blobs.md",
+    "System Design/Scaling Writes.md",
+    "System Design/Multi - Step Processes.md",
+    "System Design/Kafka.md",
+    "System Design/Real Time Updates.md",
+    "System Design/Dealing with Contention.md",
+    "assets",
+    "Reading/What Every Programmer Should know about Memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf"
+  ]
+}
