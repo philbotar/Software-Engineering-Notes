@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c46297cd640e5fc3",
+        "id": "da95070af18ec4c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3c2d75215b067141",
+            "id": "5ad00595a3e81d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Data Structures/Disjoint Set/Disjoint Set.md",
+                "file": "Embedded Systems/Embedded Systems Starting Out Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disjoint Set"
+              "title": "Embedded Systems Starting Out Notes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 620.5004348754883
   },
   "right": {
     "id": "67c43474eaf5e399",
@@ -194,19 +194,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c2d75215b067141",
+  "active": "5ad00595a3e81d8f",
   "lastOpenFiles": [
-    "System Design/assets/Screenshot 2025-12-21 at 3.19.30 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.17.22 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.15.36 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.13.36 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.12.39 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.07.31 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.05.24 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 3.02.27 pm.png",
-    "System Design/assets/Screenshot 2025-12-21 at 2.52.13 pm.png",
-    "System Design/assets/Screenshot 2025-12-14 at 10.15.40 am.png",
-    "System Design/assets/Screenshot 2025-12-14 at 1.24.50 pm.png",
+    "Languages/C/images/screenshot_16.png",
+    "Languages/C/images/screenshot_15.png",
+    "Languages/C/images/screenshot_14.png",
+    "Languages/C/images/screenshot_13.png",
+    "Languages/C/images/screenshot_12.png",
+    "Languages/C/images/screenshot_11.png",
+    "Languages/C/images/screenshot_10.png",
+    "Languages/C/images/screenshot_9.png",
+    "Languages/C/images/screenshot_8.png",
+    "Languages/C/images/screenshot_7.png",
+    "Languages/C/images/screenshot_6.png",
+    "Languages/C/images",
+    "Embedded Systems/Embedded Systems Starting Out Notes.md",
+    "Embedded Systems/RTOS.md",
+    "Languages/C/Starter Notes.md",
+    "Languages/C",
+    "DSA/Questions/309. Best time to Buy or Sell Stock with Cooldown.md",
+    "Embedded Systems",
+    "DSA/Questions/300. Longest Increasing Subsequence.md",
+    "DSA/Questions/73. Edit Distance.md",
+    "DSA/Questions/1258. Synonymous Sentences.md",
+    "DSA/Questions/714. Best Time to Buy and Sell Stock with Transaction Fee.md",
+    "DSA/Questions/Fraction to Recurring Decimal.md",
+    "DSA/Questions/30. Substring with Concatenation of All Words.md",
+    "DSA/Questions/15. 3Sum.md",
+    "DSA/Questions/673. Number of Longest Increasing Subsequence.md",
+    "DSA/Questions/template.md",
+    "DSA/Competitive Programmig List.md",
+    "DSA/Questions/Best time to buy and sell stock 3.md",
+    "DSA/Questions/ 42. Trapping Rain Water.md",
+    "DSA/Questions/6. ZigZag Conversion.md",
+    "System Design/Questions/Design Youtube Top K.md",
+    "System Design/Common Patterns.md",
+    "DSA/Data Structures/Disjoint Set/Disjoint Set.md",
     "System Design/assets",
     "System Design/Questions/assets",
     "[1258](). Synonymous Sentences.md",
@@ -214,32 +237,12 @@
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "DSA/Data Structures/Disjoint Set/Disjoint Set.md",
     "DSA/Data Structures/Segment Trees.md",
     "DSA/Data Structures/Disjoint Set/Path Compression And Union By Rank.md",
     "DSA/Data Structures/Disjoint Set/Path Compression.md",
-    "assets/20250730_203216_Screenshot_2025-07-30.md",
-    "System Design/Questions/Design Youtube Top K.md",
-    "DSA/Questions/Fraction to Recurring Decimal.md",
     "System Design/Questions",
-    "DSA/Questions/template.md",
-    "DSA/Questions/Max Stack.md",
-    "System Design/Common Patterns.md",
-    "DSA/Untitled.md",
-    "DSA/Questions/Edit Distance.md",
-    "Reading/CLRS/Minimum Spanning Trees.md",
-    "Reading/Designing Data Intensive Applications/Chapter 1 Summary.md",
     "Reading/CLRS",
     "Reading/Designing Data Intensive Applications",
-    "System Design/Managing Long Running Tasks.md",
-    "DSA/Questions/1258. Synonymous Sentences.md",
-    "DSA/Questions/30. Substring with Concatenation of All Words.md",
-    "System Design/Handling Large Blobs.md",
-    "System Design/Scaling Writes.md",
-    "System Design/Multi - Step Processes.md",
-    "System Design/Kafka.md",
-    "System Design/Real Time Updates.md",
-    "System Design/Dealing with Contention.md",
     "assets",
     "Reading/What Every Programmer Should know about Memory/WhatEveryProgrammerShouldKnowAboutMemory.pdf"
   ]
